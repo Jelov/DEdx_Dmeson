@@ -1,0 +1,2 @@
+pluginUserCodeEnergyLossPIDPlugins.so EnergyLossProducer CMS%EDM%Framework%Module
+pluginUserCodeEnergyLossPIDPlugins.so EnergyLossProducer CMS%EDM%Framework%ParameterSet%Description

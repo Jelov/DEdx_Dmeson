@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=UserCode
+subdirs_src_UserCode = src_UserCode_EnergyLossPID

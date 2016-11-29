@@ -1,0 +1,10 @@
+
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/EnergyLossPID/data
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/EnergyLossPID/interface
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/EnergyLossPID/out
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/EnergyLossPID/plugins
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/EnergyLossPID/python
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/EnergyLossPID/scripts
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/EnergyLossPID/src
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/EnergyLossPID/test
+/bin/touch tmp/common/cache/packs/changed
